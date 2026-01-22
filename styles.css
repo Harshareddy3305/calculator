@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+    
+}
+body{
+    height: 90vh;
+    background-color: black;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: darkorange;
+    font-family:'Times New Roman', Times, serif;
+}
+#num1{
+    align-items: center;
+    background-color: antiquewhite;
+    border-radius: 6px;
+    padding: 15px;
+
+}
+#num2{
+
+    align-items: center;
+    background-color: antiquewhite;
+    border-radius: 6px;
+    padding: 15px;
+
+}
+button{
+    margin-top:30px;
+    background-color:darkorange;
+    border-radius: 5px;
+    border:solid darkorange;
+    padding:15px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: black;
+    color:white;
+    
+}
+#result{
+    color: White;
+}
